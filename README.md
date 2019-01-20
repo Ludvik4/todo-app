@@ -1,13 +1,9 @@
-## Курс по React
-Команды смотреть в package.json. Основано на create-react-app
+## commands are in package.json. Based upon create-react-app
 
-### Как выполнять домашние задания?
-* Клонируем репозиторий
-* Запускаем команду `npm run install`
-* Запускаем команду `npm run test` или 'npm run test:cli'
-* Видим упавшие тесты ( не расстраиваемся  )
-* Начинаем править тесты по одному, читая комментарии в тестах и добиваясь прохождения
-* Пушим и отправляем на проверку
+### How to start
+* clone repo
+* install dependencies `npm run install`
+* run tests`npm run test` or 'npm run test:cli'
 
-### Как запусктить в браузере?
-Для этого есть команда `npm run start`
+### Run in browser
+ `npm run start`
